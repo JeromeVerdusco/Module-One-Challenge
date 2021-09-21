@@ -54,7 +54,6 @@ p {
 }
 
 /* Hero divider format begins */
-
 .hero {
     background-image: url("../images/digital-marketing-meeting.jpg");
     height: 1300px;
@@ -97,11 +96,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 /* Hero divider formats ends */
 
 /* Benefit divider format begins */
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -128,7 +125,6 @@ p {
     margin: 50px auto;
     max-width: 150px;
 }
-
 /* Benefit divider format ends */
 
 .footer {
