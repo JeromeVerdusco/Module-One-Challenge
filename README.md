@@ -13,3 +13,7 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+Your site is published at https://jeromeverdusco.github.io/Module-One-Challenge/
+
+https://github.com/JeromeVerdusco/Module-One-Challenge
